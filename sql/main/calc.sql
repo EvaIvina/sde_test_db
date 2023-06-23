@@ -1,5 +1,6 @@
 drop table if exists results;
 
+
 create table results
 (
 	id smallint not null,
